@@ -1,0 +1,8 @@
+{
+  "appId": "com.azadeh.finance",
+  "appName": "Azadeh Finance",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
